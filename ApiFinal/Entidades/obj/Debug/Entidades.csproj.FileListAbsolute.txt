@@ -1,0 +1,18 @@
+C:\Users\José Quixchán\Desktop\ApiFinal\Entidades\bin\Debug\Entidades.dll
+C:\Users\José Quixchán\Desktop\ApiFinal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\José Quixchán\Desktop\ApiFinal\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\José Quixchán\Desktop\ApiFinal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\José Quixchán\Desktop\ApiFinal\Entidades\obj\Debug\Entidades.dll
+C:\Users\José Quixchán\Desktop\ApiFinal\Entidades\obj\Debug\Entidades.pdb
+C:\Users\José Quixchán\Documents\Cursos\Desarrollo Web\ev-final-josequixchan\ApiFinal\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\José Quixchán\Documents\Cursos\Desarrollo Web\ev-final-josequixchan\ApiFinal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\José Quixchán\Documents\Cursos\Desarrollo Web\ev-final-josequixchan\ApiFinal\Entidades\obj\Debug\Entidades.dll
+C:\Users\José Quixchán\Documents\Cursos\Desarrollo Web\ev-final-josequixchan\ApiFinal\Entidades\obj\Debug\Entidades.pdb
+C:\Users\José Quixchán\Documents\Cursos\Desarrollo Web\ev-final-josequixchan\ApiFinal\Entidades\bin\Debug\Entidades.dll
+C:\Users\José Quixchán\Documents\Cursos\Desarrollo Web\ev-final-josequixchan\ApiFinal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\JoseQuixchan\Documents\ev-final-josequixchan\ApiFinal\Entidades\bin\Debug\Entidades.dll
+C:\Users\JoseQuixchan\Documents\ev-final-josequixchan\ApiFinal\Entidades\bin\Debug\Entidades.pdb
+C:\Users\JoseQuixchan\Documents\ev-final-josequixchan\ApiFinal\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\JoseQuixchan\Documents\ev-final-josequixchan\ApiFinal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\JoseQuixchan\Documents\ev-final-josequixchan\ApiFinal\Entidades\obj\Debug\Entidades.dll
+C:\Users\JoseQuixchan\Documents\ev-final-josequixchan\ApiFinal\Entidades\obj\Debug\Entidades.pdb

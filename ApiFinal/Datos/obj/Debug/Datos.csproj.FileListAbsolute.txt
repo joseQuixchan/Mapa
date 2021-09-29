@@ -1,0 +1,27 @@
+C:\Users\José Quixchán\Desktop\ApiFinal\Datos\bin\Debug\Datos.dll
+C:\Users\José Quixchán\Desktop\ApiFinal\Datos\bin\Debug\Datos.pdb
+C:\Users\José Quixchán\Desktop\ApiFinal\Datos\bin\Debug\Entidades.dll
+C:\Users\José Quixchán\Desktop\ApiFinal\Datos\bin\Debug\Entidades.pdb
+C:\Users\José Quixchán\Desktop\ApiFinal\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\José Quixchán\Desktop\ApiFinal\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\José Quixchán\Desktop\ApiFinal\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\José Quixchán\Desktop\ApiFinal\Datos\obj\Debug\Datos.dll
+C:\Users\José Quixchán\Desktop\ApiFinal\Datos\obj\Debug\Datos.pdb
+C:\Users\José Quixchán\Documents\Cursos\Desarrollo Web\ev-final-josequixchan\ApiFinal\Datos\bin\Debug\Datos.dll
+C:\Users\José Quixchán\Documents\Cursos\Desarrollo Web\ev-final-josequixchan\ApiFinal\Datos\bin\Debug\Datos.pdb
+C:\Users\José Quixchán\Documents\Cursos\Desarrollo Web\ev-final-josequixchan\ApiFinal\Datos\bin\Debug\Entidades.dll
+C:\Users\José Quixchán\Documents\Cursos\Desarrollo Web\ev-final-josequixchan\ApiFinal\Datos\bin\Debug\Entidades.pdb
+C:\Users\José Quixchán\Documents\Cursos\Desarrollo Web\ev-final-josequixchan\ApiFinal\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\José Quixchán\Documents\Cursos\Desarrollo Web\ev-final-josequixchan\ApiFinal\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\José Quixchán\Documents\Cursos\Desarrollo Web\ev-final-josequixchan\ApiFinal\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\José Quixchán\Documents\Cursos\Desarrollo Web\ev-final-josequixchan\ApiFinal\Datos\obj\Debug\Datos.dll
+C:\Users\José Quixchán\Documents\Cursos\Desarrollo Web\ev-final-josequixchan\ApiFinal\Datos\obj\Debug\Datos.pdb
+C:\Users\JoseQuixchan\Documents\ev-final-josequixchan\ApiFinal\Datos\bin\Debug\Datos.dll
+C:\Users\JoseQuixchan\Documents\ev-final-josequixchan\ApiFinal\Datos\bin\Debug\Datos.pdb
+C:\Users\JoseQuixchan\Documents\ev-final-josequixchan\ApiFinal\Datos\bin\Debug\Entidades.dll
+C:\Users\JoseQuixchan\Documents\ev-final-josequixchan\ApiFinal\Datos\bin\Debug\Entidades.pdb
+C:\Users\JoseQuixchan\Documents\ev-final-josequixchan\ApiFinal\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\JoseQuixchan\Documents\ev-final-josequixchan\ApiFinal\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\JoseQuixchan\Documents\ev-final-josequixchan\ApiFinal\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\JoseQuixchan\Documents\ev-final-josequixchan\ApiFinal\Datos\obj\Debug\Datos.dll
+C:\Users\JoseQuixchan\Documents\ev-final-josequixchan\ApiFinal\Datos\obj\Debug\Datos.pdb
